@@ -25,7 +25,22 @@ Week|Chapter|Content to be covered|
 |7|9 |Linear momentum and collisions 3|
 ||10|Rotational motion 1|
 |8|10|Rotational motion 2|
-||10|Rotational motion 9|
+||10|Rotational motion 1|
+|9|10|Rotational motion 2|
+||10|Rotational motion 3|
+|10|11|General rotation|
+||12|Oscillations 1|
+|11|12|Oscillations 2|
+||12|Oscillations 3|
+|12|13|Wave motion 1|
+||13|Wave motion 2|
+|13|13|Wave motion 3|
+||30|Interference 1|
+|14|30|Interference 2|
+||31|Diffraction and Polarization 1|
+|15|31|Diffraction and Polarization 2|
+||31|Diffraction and Polarization 3|
+
 
 
 
