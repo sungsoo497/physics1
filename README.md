@@ -10,7 +10,7 @@ Tuesday and Thursday 5-6 (14:30 - 16:05), 品学楼 B313
 
 Week|Chapter|Content to be covered|
 | :--: | :--: | :--- |
-|1|1 |Intro., Measurement, Estimation|
+|1|1 |Introduction, Measurement, Estimation|
 ||2 |Kinetic Energy in 1d|
 |2|3 |Kinetic Energy in 2d and Vectors 1|
 ||3 |Kinetic Energy in 2d and Vectors 2|
