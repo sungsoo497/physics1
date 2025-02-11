@@ -1,12 +1,14 @@
-# work
+# Physics I (大学物理I)
+[Go to Class diary](#Class-diary) 
 
-## table
-Time|9/25(Wednesday)|26(Thursday)|27(Friday)|28(Saturday)|29(Sunday)|
-| -------- | ------- |-------- | ------- |-------- |-------- |
-| 9:00-10:00  |-------     |-------- | ------- |-------- |-------- |
-|     Coffee break |
-| 10:30-11:30|-------  |-------- | ------- |-------- |-------- |
-|    Lunch |
-| 14:00-15:00 | -------    |-------- | ------- |-------- |Free discussion|
-|    Coffee break |
-| 15:30-16:30 |  -------   |-------- | ------- |-------- |
+## Course information
+
+课程序号: UoG11109.01
+
+Tuesday and Thursday 5-6 (14:30 - 16:05), 品学楼 B313
+
+## Class diary
+
+Date|Summary|
+| -------- | ------------------- |
+|Feb.25|  First class |
