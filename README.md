@@ -12,8 +12,8 @@ Week|Chapter|Content to be covered|
 | :--: | :--: | :--- |
 |1|1 |Intro., Measurement, Estimation|
 ||2 |Kinetic Energy in 1d|
-|2|3 |Kinetic Energy in 2d, Vectors|
-||3 |Kinetic Energy in 2d, Vectors|
+|2|3 |Kinetic Energy in 2d and Vectors 1|
+||3 |Kinetic Energy in 2d and Vectors 2|
 |3|4 |Newton's laws and applications|
 ||5 |Newton's laws and applications|
 |4|7 |Work and Energy 1|
