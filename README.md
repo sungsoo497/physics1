@@ -1,6 +1,6 @@
 # Physics I (大学物理I)
 <!-- [Go to Class diary](#Class-diary) -->
-`[Announcemnet: -------------------]`
+`[Announcement(通告): -------------------]`
 ## Course information
 
 课程序号: UoG11109.01
