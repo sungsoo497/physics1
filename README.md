@@ -28,7 +28,7 @@ Week|Chapter|Content to be covered|
 ||10|Rotational motion 1|
 |9|10|Rotational motion 2|
 ||10|Rotational motion 3|
-|10|11|General rotation|
+|10|11|General rotations|
 ||12|Oscillations 1|
 |11|12|Oscillations 2|
 ||12|Oscillations 3|
