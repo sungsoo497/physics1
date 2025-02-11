@@ -6,7 +6,7 @@
 * Make-up class for 劳动节 5月1日(Thursday): to be announced
 * Quiz
 
-## Class diary
+## Class schedule
 Week|Chapter|Content to be covered|
 | :--: | :--: | :--- |
 |1|1 |Introduction, Measurement, Estimation|
