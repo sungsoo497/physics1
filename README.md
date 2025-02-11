@@ -1,5 +1,5 @@
 # Physics I (大学物理I)
-% [Go to Class diary](#Class-diary) 
+`[Go to Class diary](#Class-diary) 
 
 ## Course information
 
