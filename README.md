@@ -14,8 +14,8 @@ Week|Chapter|Content to be covered|
 ||2 |Kinetic Energy in 1d|
 |2|3 |Kinetic Energy in 2d and Vectors 1|
 ||3 |Kinetic Energy in 2d and Vectors 2|
-|3|4 |Newton's laws and applications|
-||5 |Newton's laws and applications|
+|3|4 |Newton's laws and applications 1|
+||5 |Newton's laws and applications 2|
 |4|7 |Work and Energy 1|
 ||7 |Work and Energy 2|
 |5|8 |Conservation of Energy 1|
