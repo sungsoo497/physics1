@@ -3,8 +3,8 @@
 ## Course information and announcement
 * 课程序号: UoG11109.01
 * Tuesday and Thursday 5-6 (14:30 - 16:05), 品学楼 B313
-* Make-up class for 劳动节 5月1日(Thursday): to be announced
 * _'Physics for Scientist and Engineers with Modern Physics'_ 3 ed., Douglas C. Giancoli
+* Make-up class for 劳动节 5月1日(Thursday): to be announced
 * Quiz
 
 ## Class schedule
