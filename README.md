@@ -39,6 +39,9 @@ Week|Chapter|Content to be covered|
 |14|31|Diffraction and Polarization (2)|
 ||31|Diffraction and Polarization (3)|
 
+## Resources
+The Feynman Lectures on Physics https://www.feynmanlectures.caltech.edu
+
 
 
 
