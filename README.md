@@ -13,13 +13,13 @@ Week|Chapter|HW|Content to be covered|
 |1|1||Introduction, Measurement, Estimation|
 ||2 |Ch2:28,66,67,68|Kinetic Energy in 1d|
 |2|3 |Ch3:18, 25, 41, 44|Kinetic Energy in 2d and Vectors (1)|
-||3 |Ch3:58, 64, 91 + PPT|Kinetic Energy in 2d and Vectors (2)|
-|3|4 ||Newton's laws |
-||5 ||Newton's laws and applications|
-|4|7| |Work and Energy (1)|
-||7 ||Work and Energy (2)|
-|5|8 ||Conservation of Energy (1)|
-||8 ||Conservation of Energy (2)|
+||3 |Ch3:58, 64, 91, PPT|Kinetic Energy in 2d and Vectors (2)|
+|3|4 |Ch4:18, 31, 36, 53|Newton's laws |
+||5 | Ch5:22, 54, 64, 79|Newton's laws and applications|
+|4|7| Ch7:37, 38, 53, 67|Work and Energy (1)|
+||7 |Ch7:64, 69; Ch8: 6, 14|Work and Energy (2)|
+|5|8|Ch8: 19, 35, 36, PPT|Conservation of Energy (1)|
+||8 |Ch8:39, 66, 71; Ch9: 5|Conservation of Energy (2)|
 |6|9| |Linear momentum and collisions (1)|
 ||9 ||Linear momentum and collisions (2)|
 |7|9 ||Linear momentum and collisions (3)|
