@@ -42,6 +42,7 @@ Week|Chapter|Homework|Content to be covered|
 ## Resources
 * The Feynman Lectures on Physics https://www.feynmanlectures.caltech.edu
 * OpenStax https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)
+* [OpenStax, University Physics]([https://www.google.com](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)) "Go to OpenStax")
 
 
 
