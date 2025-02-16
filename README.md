@@ -5,7 +5,7 @@
 * Tuesday and Thursday 5-6 (14:30 - 16:05), 品学楼 B313
 * _'Physics for Scientist and Engineers with Modern Physics'_ 3 ed., Douglas C. Giancoli
 * Make-up class for 劳动节 5月1日(Thursday): to be announced
-* Quiz
+* Quizzes: to be announced
 
 ## Class schedule
 Week|Chapter|Homework|Content to be covered|
