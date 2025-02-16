@@ -10,7 +10,7 @@
 ## Class schedule
 Week|Chapter|HW|Content to be covered|
 | :--: | :--: |:--: | :--- |
-|1|1||Introduction, Measurement, Estimation|
+|1|1|-|Introduction, Measurement, Estimation|
 ||2 |28,66,67,68|Kinetic Energy in 1d|
 |2|3 |18, 25, 41, 44|Kinetic Energy in 2d and Vectors (1)|
 ||3 |58, 64, 91, (PPT)|Kinetic Energy in 2d and Vectors (2)|
@@ -19,25 +19,25 @@ Week|Chapter|HW|Content to be covered|
 |4|7| 37, 38, 53, 67|Work and Energy (1)|
 ||7 |Ch9: 64, 69 // Ch8: 6, 14|Work and Energy (2)|
 |5|8|19, 35, 36, (PPT)|Conservation of Energy (1)|
-||8 |Ch8:39, 66, 71//  Ch9: 5|Conservation of Energy (2)|
-|6|9|Ch9: 8, 17, 31, (PPT) |Linear momentum and collisions (1)|
-||9 |Ch9: 39, 41, 47, 67|Linear momentum and collisions (2)|
-|7|9 |Ch9: 65, 71 / Ch:10  16, 18|Linear momentum and collisions (3)|
-||10|Ch10: 24, 30, 31, (PPT)|Rotational motion (1)|
-|8|10|Ch10: 37, 46, 55, 56|Rotational motion (2)|
-||10|Ch10: 65, 75 / Ch11: 10, 20|Rotational motion (3)|
-|9|11|Ch11: 27, 36, 45, PPT|General rotations|
-||12||Oscillations (1)|
-|10|12||Oscillations (2)|
-||12||Oscillations (3)|
-|11||13|Wave motion (1)|
-||13||Wave motion (2)|
-|12|13||Wave motion (3)|
-||30||Interference (1)|
-|13|30||Interference (2)|
-||31||Diffraction and Polarization (1)|
-|14|31||Diffraction and Polarization (2)|
-||31||Diffraction and Polarization (3)|
+||8 |Ch8:39, 66, 71 //  Ch9: 5|Conservation of Energy (2)|
+|6|9|8, 17, 31, (PPT) |Linear momentum and collisions (1)|
+||9 |39, 41, 47, 67|Linear momentum and collisions (2)|
+|7|9 |Ch9: 65, 71 // Ch:10  16, 18|Linear momentum and collisions (3)|
+||10|24, 30, 31, (PPT)|Rotational motion (1)|
+|8|10|37, 46, 55, 56|Rotational motion (2)|
+||10|Ch10: 65, 75 // Ch11: 10, 20|Rotational motion (3)|
+|9|11|27, 36, 45, (PPT)|General rotations|
+||12| 5, 6, 11, 13|Oscillations (1)|
+|10|12|12, 25, 28, 47|Oscillations (2)|
+||12|51, 57, 84, (PPT)|Oscillations (3)|
+|11|13|6, 10, 23, 26|Wave motion (1)|
+||13|13, 15, 27, 35|Wave motion (2)|
+|12|13|32, 42, 46, 47|Wave motion (3)|
+||30|7, 8, 12, 38|Interference (1)|
+|13|30|17, 20, 26, 41|Interference (2)|
+||31|Question 5; Problem 4, 7, 20 |Diffraction and Polarization (1)|
+|14|31|Question 16; Problem 29, 32, 35(a)|Diffraction and Polarization (2)|
+||31|40, 47, 49, 50|Diffraction and Polarization (3)|
 
 ## Resources
 * The Feynman Lectures on Physics https://www.feynmanlectures.caltech.edu
