@@ -10,7 +10,7 @@
 ## Class schedule
 Week|Chapter|HW|Content to be covered|
 | :--: | :--: |:--: | :--- |
-|1|1||Introduction, Measurement, Estimation|
+|1|1|Ch2:28,66,67,68|Introduction, Measurement, Estimation|
 ||2 ||Kinetic Energy in 1d|
 |2|3 ||Kinetic Energy in 2d and Vectors (1)|
 ||3 ||Kinetic Energy in 2d and Vectors (2)|
