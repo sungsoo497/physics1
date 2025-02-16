@@ -35,8 +35,8 @@ Week|Chapter|HW|Content to be covered|
 |12|13|32, 42, 46, 47|Wave motion (3)|
 ||30|7, 8, 12, 38|Interference (1)|
 |13|30|17, 20, 26, 41|Interference (2)|
-||31|Question 5; Problem 4, 7, 20 |Diffraction and Polarization (1)|
-|14|31|Question 16; Problem 29, 32, 35(a)|Diffraction and Polarization (2)|
+||31|Q 5; Prob 4, 7, 20 |Diffraction and Polarization (1)|
+|14|31|Q 16; Prob 29, 32, 35(a)|Diffraction and Polarization (2)|
 ||31|40, 47, 49, 50|Diffraction and Polarization (3)|
 
 ## Resources
