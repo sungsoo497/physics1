@@ -40,6 +40,7 @@ Week|Chapter|Homework|Content to be covered|
 ||31|40, 47, 49, 50|Diffraction and Polarization (3)|
 
 ## Resources
+* [中国大学MOCC Physics](https://www.icourse163.org/course/UESTC-1003250005)
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 * [University Physics I (OpenStax)](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))
 
