@@ -8,7 +8,7 @@
 * Quiz
 
 ## Class schedule
-Week|Chapter|HW|Content to be covered|
+Week|Chapter|Homework|Content to be covered|
 | :--: | :--: |:--: | :--- |
 |1|1|-|Introduction, Measurement, Estimation|
 ||2 |28,66,67,68|Kinetic Energy in 1d|
