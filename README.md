@@ -40,11 +40,9 @@ Week|Chapter|Homework|Content to be covered|
 ||31|40, 47, 49, 50|Diffraction and Polarization (3)|
 
 ## Resources
-* The Feynman Lectures on Physics https://www.feynmanlectures.caltech.edu
-* [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu "Go to The Feynman Lectures on Physics")
-* <a href="[https://example.com](https://www.feynmanlectures.caltech.edu)" target="_blank">Visit Example</a>
+* [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 * OpenStax https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)
-* [OpenStax, University Physics]( https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax) )
+* [OpenStax, University Physics](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax))
 
 
 
