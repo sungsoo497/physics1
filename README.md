@@ -10,7 +10,7 @@
 ## Class schedule
 周Week|Chapter|Homework|Content to be covered|
 | :--: | :--: |:--: | :--- |
-|一|1|-|Introduction, Measurement, Estimation|
+|一|1|.|Introduction, Measurement, Estimation|
 ||2 |28,66,67,68|Kinetic Energy in 1d|
 |二|3 |18, 25, 41, 44|Kinetic Energy in 2d and Vectors (1)|
 ||3 |58, 64, 91, (PPT)|Kinetic Energy in 2d and Vectors (2)|
